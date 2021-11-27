@@ -1,0 +1,8 @@
+.design {
+  width: 33%;
+}
+
+#container {
+  display: flex;
+  flex-wrap: wrap;
+}
